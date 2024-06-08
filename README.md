@@ -2,7 +2,7 @@
 deepTME: a deep learning model for drug-drug interaction prediction based on Morgan fingerprint
 
 
-# **Dependencies:
+# Dependencies:
   python 3.6  
   pytorch >= 1.2.0   
   numpy   
