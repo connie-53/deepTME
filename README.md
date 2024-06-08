@@ -15,7 +15,7 @@ Mol dataset
 ChCh-Miner dataset   
 DeepDDI dataset  
 
-# Using
+# Using：
 ddi.py: Data preprocessing   
 model.py: Generate model   
 mian_ddi.py: Main function   
